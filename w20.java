@@ -22,7 +22,7 @@ public class w20 {
             System.out.println("6. 離開");
 
             int choice = scanner.nextInt();
-            scanner.nextLine();  //讀取有用訊息
+            scanner.nextLine();  //讀取有用訊息123
 
             switch (choice) {
                 case 1:
